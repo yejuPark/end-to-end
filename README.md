@@ -1,4 +1,4 @@
-# EndToEnd(A) - pyj
+# EndToEnd(A) - cmj
 
 - 강아지
 - 지렁이
